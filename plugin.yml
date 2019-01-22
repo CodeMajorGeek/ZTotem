@@ -1,0 +1,11 @@
+name: ZTotem
+author: CodeMajorGeek
+version: 0.1
+main: fr.zephyrmc.ztotem.ZTotem
+depend: [Factions]
+description: Event Totem de ZephyrMC.
+commands:
+  totem:
+    description: Event Totem de ZephyrMC.
+    syntax: /<command> help
+    usage: Syntax error! /<command> help to show commands.
