@@ -202,7 +202,7 @@ public class TotemCommand implements CommandExecutor {
 				}
 			} else if (args.length == 2 && args[0].toLowerCase().equals("quit")) {
 				
-				if(ZTotem.mainPlugin.)
+				return true;
 			} else {
 
 				return false;
